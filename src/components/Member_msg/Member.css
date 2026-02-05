@@ -9,11 +9,15 @@
   left: 0;
   width: 100%;
   height: auto;
+  background-image: url("../../../public/pictures/bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-sizing: border-box;
   /* overflow: hidden; */
 }
 
 :root{
-  --color-midnight: lch(36.73% 35.84 157.21);
+  --color-midnight: lch(82.83% 64.07 158.07);
   --color-tahiti: lch(100% 0.01 296.81);
   --color-bermuda: #1f578b;
 }
